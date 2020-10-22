@@ -14,3 +14,5 @@ To deploy it:
 It should look like this:
 
 ![Welcome to Cloud Foundry](screenshot.png)
+
+workflow trigger
